@@ -1,4 +1,5 @@
 CollageVideo – Automatic Multi-Video Compositing Tool with Timecode & Frame Overlay
+<img width="1536" height="1024" alt="Portada_CollageVideo_v009" src="https://github.com/user-attachments/assets/9f471d4a-279c-4e9b-9a24-ec05089c99fc" />
 
 Descripción corta
 Composición automática de múltiples videos con layout simétrico, soporte de timecode y número de frame, multi-idioma y actualización automática integrada.
