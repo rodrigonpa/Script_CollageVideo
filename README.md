@@ -1,4 +1,5 @@
 CollageVideo – Automatic Multi-Video Compositing Tool with Timecode & Frame Overlay
+
 <img width="1536" height="1024" alt="Portada_CollageVideo_v009" src="https://github.com/user-attachments/assets/9f471d4a-279c-4e9b-9a24-ec05089c99fc" />
 
 Descripción corta
@@ -80,6 +81,7 @@ Orientado a automatización y rapidez de iteración
 No reemplaza software de edición, sino que complementa el pipeline
 
 Contacto
+
 rodrigopaz.vfx@gmail.com
 
 https://www.instagram.com/rodrigo_npa/
