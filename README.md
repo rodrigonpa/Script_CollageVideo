@@ -1,87 +1,78 @@
-CollageVideo – Automatic Multi-Video Compositing Tool with Timecode & Frame Overlay
+CollageVideo – Multi-Video Comparison Tool (Side-by-Side, Timecode & Frame Overlay)
 
 <img width="1536" height="1024" alt="Portada_CollageVideo_v009" src="https://github.com/user-attachments/assets/9f471d4a-279c-4e9b-9a24-ec05089c99fc" />
 
-Descripción corta
-Composición automática de múltiples videos con layout simétrico, soporte de timecode y número de frame, multi-idioma y actualización automática integrada.
+Short Description
+Automatic multi-video composition tool that generates symmetrical layouts with timecode and frame number overlays. Includes multi-language support and built-in auto-update system.
+________________________________________
+Full Description
+CollageVideo is a lightweight video composition tool built on FFmpeg, designed to generate multi-camera collages through automatic and symmetrical layouts.
+It is aimed at VFX artists, editors, and technical users who need to visualize multiple video sources simultaneously without relying on traditional editing software or manually building layouts.
+The system dynamically organizes inputs, optimizing screen space and producing consistent compositions ready for review, analysis, or presentation.
+________________________________________
+Key Features
+•	Automatic multi-video composition 
+•	Dynamic symmetrical layout generation 
+•	Adaptive layout based on number of inputs 
+•	Batch processing support 
+•	High-quality output 
+•	Lightweight standalone executable (.exe) 
+•	Multi-language interface (Spanish / English) 
+•	Built-in auto-update system 
+________________________________________
+Technical Overview
+•	Programmatic construction of filter_complex 
+•	Automatic scaling and spatial distribution 
+•	Optimized layout generation logic 
+•	Direct FFmpeg execution (CLI abstraction) 
+•	Output optimized for review and presentation 
+________________________________________
+Timecode Overlay
+•	Per-clip timecode display 
+•	Improves review precision 
+•	Useful for validation and delivery workflows 
+________________________________________
+Frame Number Overlay (FPS / Frame Count)
+•	Displays current frame number per clip 
+•	Enables frame-accurate analysis 
+•	Useful for debugging, synchronization, and technical review 
+________________________________________
+Languages
+•	Interface available in Spanish and English 
+•	Dynamic language switching within the application 
+•	Spanish set as default 
+•	Suitable for international workflows 
+________________________________________
+Auto-Update System
+•	Automatic detection of new versions 
+•	Direct download from releases 
+•	Keeps the tool updated without manual intervention 
+________________________________________
+Pipeline Applications
+•	Animation and simulation comparisons 
+•	Multi-camera review 
+•	Iteration analysis 
+•	Technical presentations 
+•	Social media content generation 
+________________________________________
+Current Limitations
+•	Fully automatic layouts (no manual editing) 
+•	No timeline system 
+________________________________________
+Technical Notes
+•	Based on FFmpeg 
+•	CPU-based processing 
+•	Focused on automation and fast iteration 
+•	Designed to complement, not replace, editing software 
+________________________________________
+Note
+This project is under active development.
+Supporting it helps drive new features, optimizations, and production-ready improvements.
+________________________________________
+Contact
 
-Descripción completa
-CollageVideo es una herramienta de composición de video basada en FFmpeg diseñada para generar collages multicámara mediante layouts automáticos y simétricos.
+Email: rodrigopaz.vfx@gmail.com
 
-Está orientada a artistas de VFX, editores y técnicos que necesitan visualizar múltiples clips en simultáneo sin recurrir a software de edición tradicional ni construir layouts manualmente.
-
-El sistema organiza dinámicamente los inputs, optimizando el espacio disponible y generando composiciones consistentes listas para revisión o presentación.
-
-Características técnicas
-Composición automática de múltiples inputs
-
-Generación de layout simétrico dinámico
-
-Adaptación según cantidad de clips
-
-Construcción programática de filter_complex
-
-Escalado y distribución automática
-
-Output en alta calidad
-
-Texto de timecode
-Inserción de timecode por clip
-
-Control preciso en revisiones
-
-Aplicable a validación de material y entregas
-
-Texto de FPS (número de frame)
-Visualización del número de frame actual
-
-Útil para análisis frame-accurate
-
-Aplicable a debugging, sincronización y revisión técnica
-
-Idiomas
-Interfaz disponible en Español e Inglés
-
-Cambio dinámico desde la aplicación
-
-Español como idioma predeterminado
-
-Preparado para uso en entornos internacionales
-
-Sistema de actualización
-Detección automática de nuevas versiones
-
-Descarga directa desde release
-
-Mantiene la herramienta actualizada sin intervención del usuario
-
-Aplicaciones en pipeline
-Comparativas de animación o simulación
-
-Revisión multicámara
-
-Análisis de iteraciones
-
-Presentaciones técnicas
-
-Generación de contenido para redes
-
-Limitaciones actuales
-Layouts exclusivamente automáticos (sin edición manual)
-
-Sin sistema de timeline
-
-Consideraciones técnicas
-Basado en FFmpeg
-
-Procesamiento CPU-based
-
-Orientado a automatización y rapidez de iteración
-
-No reemplaza software de edición, sino que complementa el pipeline
-
-Contacto
-
-rodrigopaz.vfx@gmail.com
-
-https://www.instagram.com/rodrigo_npa/
+Instagram: https://www.instagram.com/rodrigo_npa/
+________________________________________
+Keywords: video comparison tool, multi video layout, video collage, side by side video comparison, ffmpeg collage, multi camera view, video grid layout, compare videos frame by frame, timecode overlay video, frame number overlay, video analysis tool, vfx review tool, batch video composition
